@@ -1,0 +1,13 @@
+{
+  "author": "S. Wotherspoon",
+  "name": "strapdown-it",
+  "version": "0.1.0",
+  "dependencies": {
+    "shelljs": "0.7.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
