@@ -4,7 +4,7 @@ A variant of [strapdownjs](https://github.com/arturadib/strapdown)
 that uses the extensible
 [markdown-it](https://github.com/markdown-it/markdown-it) parser to
 render markdown files according to the
-[CommonMark Spec](http://spec.commonmark.org/) using
+[CommonMark Spec](http://spec.commonmark.org/)
 
 ## Features
 
@@ -16,10 +16,6 @@ render markdown files according to the
    plugin.
 1. Code highlighting with [highlightjs](https://highlightjs.org/).
 1. [Bootswatch](http://bootswatch.com/) themes.
-
-
-## Usage
-
 
 ## Provenance
 
